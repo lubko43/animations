@@ -1,6 +1,8 @@
 # Animation
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) 
+## install animation library via npm 
+npm install @angular/animations@latest --save
 
 ## Development server
 
